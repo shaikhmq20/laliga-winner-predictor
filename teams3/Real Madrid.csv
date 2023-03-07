@@ -1,0 +1,11 @@
+position,team,played,won,drawn,lost,goals_for,goals_against,goal_difference,points,year
+4,Real Madrid,30.0,17,7,6,46,24,+22,41,1970-71
+1,Real Madrid,34.0,19,9,6,51,27,+24,47,1971-72
+4,Real Madrid,34.0,17,9,8,45,29,+16,43,1972-73
+8,Real Madrid,34.0,13,8,13,48,38,+10,34,1973-74
+1,Real Madrid,34.0,20,10,4,66,34,+32,50,1974-75
+1,Real Madrid,34.0,20,8,6,54,26,+28,48,1975-76
+9,Real Madrid,34.0,12,10,12,57,53,+4,34,1976-77
+1,Real Madrid,34.0,22,3,9,77,40,+37,47,1977-78
+1,Real Madrid,34.0,16,15,3,61,36,+25,47,1978-79
+1,Real Madrid,34.0,22,9,3,70,33,+37,53,1979-80
