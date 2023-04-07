@@ -1,0 +1,11 @@
+position,team,played,won,drawn,lost,goals_for,goals_against,goal_difference,points,year
+2,Atlético Madrid,38.0,17,13,8,52,28,+24,47,1990-91
+3,Atlético Madrid,38.0,24,5,9,67,35,+32,53,1991-92
+6,Atlético Madrid,38.0,16,11,11,52,42,+10,43,1992-93
+12,Atlético Madrid,38.0,13,9,16,54,54,0,35,1993-94
+14,Atlético Madrid,38.0,13,9,16,56,54,+2,35,1994-95
+1,Atlético Madrid,42.0,26,9,7,75,32,+43,87,1995-96
+5,Atlético Madrid,42.0,20,11,11,76,64,+12,71,1996-97
+7,Atlético Madrid,38.0,16,12,10,79,56,+23,60,1997-98
+13,Atlético Madrid,38.0,12,10,16,54,50,+4,46,1998-99
+19,Atlético Madrid,38.0,9,11,18,48,64,−16,38,1999-2000

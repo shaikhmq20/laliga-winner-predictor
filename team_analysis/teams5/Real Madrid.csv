@@ -1,0 +1,11 @@
+position,team,played,won,drawn,lost,goals_for,goals_against,goal_difference,points,year
+3,Real Madrid,38.0,20,6,12,63,37,+26,46,1990-91
+2,Real Madrid,38.0,23,8,7,78,32,+46,54,1991-92
+2,Real Madrid,38.0,24,9,5,75,28,+47,57,1992-93
+4,Real Madrid,38.0,19,7,12,61,50,+11,45,1993-94
+1,Real Madrid,38.0,23,9,6,76,29,+47,55,1994-95
+6,Real Madrid,42.0,20,10,12,75,51,+24,70,1995-96
+1,Real Madrid,42.0,27,11,4,85,36,+49,92,1996-97
+4,Real Madrid,38.0,17,12,9,63,45,+18,63,1997-98
+2,Real Madrid,38.0,21,5,12,77,62,+15,68,1998-99
+5,Real Madrid,38.0,16,14,8,58,48,+10,62,1999-2000

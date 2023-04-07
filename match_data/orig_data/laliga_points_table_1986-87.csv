@@ -1,0 +1,19 @@
+position,team,played,won,drawn,lost,goals_for,goals_against,goal_difference,points
+1,Real Madrid,34,20,10,4,61,29,+32,50
+2,Barcelona,34,18,13,3,51,22,+29,49
+3,Español,34,17,9,8,52,30,+22,43
+4,Sporting Gijón,34,14,9,11,47,36,+11,37
+5,Mallorca,34,14,8,12,42,46,−4,36
+6,Zaragoza,34,13,10,11,31,30,+1,36
+7,Atlético Madrid,34,13,9,12,37,40,−3,35
+8,Real Betis,34,13,8,13,36,43,−7,34
+9,Sevilla,34,13,8,13,41,35,+6,34
+10,Real Sociedad,34,13,8,13,45,35,+10,34
+11,Murcia,34,13,6,15,31,43,−12,32
+12,Valladolid,34,11,9,14,31,32,−1,31
+13,Athletic Bilbao,34,11,9,14,39,40,−1,31
+14,Las Palmas,34,11,7,16,41,48,−7,29
+15,Osasuna,34,8,11,15,24,40,−16,27
+16,Racing Santander,34,9,8,17,31,49,−18,26
+17,Sabadell,34,7,11,16,28,50,−22,25
+18,Cádiz,34,8,7,19,22,42,−20,23

@@ -1,0 +1,11 @@
+position,team,played,won,drawn,lost,goals_for,goals_against,goal_difference,points,year
+5,Real Sociedad,30,15,5,10,77,56,+21,35,1950-51
+10,Real Sociedad,30,11,4,15,60,59,+1,26,1951-52
+10,Real Sociedad,30,10,8,12,54,61,−7,28,1952-53
+9,Real Sociedad,30,11,7,12,44,58,−14,29,1953-54
+14,Real Sociedad,30,9,6,15,48,53,−5,24,1954-55
+8,Real Sociedad,30,11,8,11,48,53,−5,30,1955-56
+12,Real Sociedad,30,9,8,13,39,47,−8,26,1956-57
+9,Real Sociedad,30,10,7,13,38,44,−6,27,1957-58
+10,Real Sociedad,30,9,10,11,32,33,−1,28,1958-59
+14,Real Sociedad,30,10,3,17,41,61,−20,23,1959-60

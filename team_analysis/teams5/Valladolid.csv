@@ -1,0 +1,10 @@
+position,team,played,won,drawn,lost,goals_for,goals_against,goal_difference,points,year
+9,Valladolid,38.0,12,13,13,38,40,−2,37,1990-91
+19,Valladolid,38.0,7,13,18,31,53,−22,27,1991-92
+18,Valladolid,38.0,8,14,16,28,51,−23,30,1993-94
+19,Valladolid,,[c],38,8,9,21,25,63,1994-95
+16,Valladolid,42.0,11,14,17,57,62,−5,47,1995-96
+7,Valladolid,42.0,18,10,14,57,46,+11,64,1996-97
+11,Valladolid,38.0,13,11,14,36,47,−11,50,1997-98
+12,Valladolid,38.0,13,9,16,35,44,−9,48,1998-99
+8,Valladolid,38.0,14,11,13,36,44,−8,53,1999-2000
