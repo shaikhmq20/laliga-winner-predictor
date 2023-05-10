@@ -1,3 +1,4 @@
 .vscode/
 .tmp.driveupload/
 .ipynb_checkpoints
+*.zip
