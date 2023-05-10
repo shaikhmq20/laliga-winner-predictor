@@ -1,14 +1,14 @@
 position,team,played,won,drawn,lost,goals_for,goals_against,goal_difference,points,year
-7,Atlético Bilbao,30,15,3,12,88,56,+32,33,1950-51
-2,Atlético Bilbao,30,17,6,7,78,46,+32,40,1951-52
-6,Atlético Bilbao,30,14,4,12,83,52,+31,32,1952-53
-6,Atlético Bilbao,30,12,8,10,54,44,+10,32,1953-54
-3,Atlético Bilbao,30,15,9,6,78,39,+39,39,1954-55
-1,Atlético Bilbao,30,22,4,4,79,31,+48,48,1955-56
-4,Atlético Bilbao,30,16,5,9,59,45,+14,37,1956-57
-6,Atlético Bilbao,30,14,4,12,56,48,+8,32,1957-58
-3,Atlético Bilbao,30,17,2,11,72,33,+39,36,1958-59
-3,Atlético Bilbao,30,19,1,10,74,45,+29,39,1959-60
+7,Atlético Bilbao,30,15,3,12,88,56,32,33,1950-51
+2,Atlético Bilbao,30,17,6,7,78,46,32,40,1951-52
+6,Atlético Bilbao,30,14,4,12,83,52,31,32,1952-53
+6,Atlético Bilbao,30,12,8,10,54,44,10,32,1953-54
+3,Atlético Bilbao,30,15,9,6,78,39,39,39,1954-55
+1,Atlético Bilbao,30,22,4,4,79,31,48,48,1955-56
+4,Atlético Bilbao,30,16,5,9,59,45,14,37,1956-57
+6,Atlético Bilbao,30,14,4,12,56,48,8,32,1957-58
+3,Atlético Bilbao,30,17,2,11,72,33,39,36,1958-59
+3,Atlético Bilbao,30,19,1,10,74,45,29,39,1959-60
 7,Atlético Bilbao,30,12,6,12,42,41,+1,30,1960-61
 5,Atlético Bilbao,30,12,8,10,52,38,+14,32,1961-62
 10,Atlético Bilbao,30,10,8,12,41,40,+1,28,1962-63
@@ -19,4 +19,4 @@ position,team,played,won,drawn,lost,goals_for,goals_against,goal_difference,poin
 7,Atlético Bilbao,30,11,10,9,51,28,+23,32,1967-68
 11,Atlético Bilbao,30,10,8,12,42,46,−4,28,1968-69
 2,Atlético Bilbao,30,17,7,6,44,20,+24,41,1969-70
-5,Atlético Bilbao,30,14,7,9,40,31,+9,35,1970-71
+5,Atlético Bilbao,30,14,7,9,40,31,9,35,1970-71
